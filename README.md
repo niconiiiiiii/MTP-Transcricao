@@ -1,4 +1,4 @@
-# 🎵 MTP – Transcrição Musical Automática
+MTP – Transcrição Musical Automática
 
 Projeto ITA 2026 — Converte áudio (WAV/MP3) em MIDI e partitura.
 
